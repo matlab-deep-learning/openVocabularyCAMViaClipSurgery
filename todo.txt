@@ -1,9 +1,0 @@
-TODO:
-- link to CLIP weights support package in README, once they are available online (they are releasing in R2026a)
-- remove this todo.txt file
-- upload this repository to the MathWorks public github after R2026a is released
-    - per Samuel's code review, and the public github authoring guidelines, we cannot release undocumented code, which is why we cannot upload this repo until R2026a
-
-Enhancements:
-- segment and display multiple objects
-- use a whole dataset rather than a single image
