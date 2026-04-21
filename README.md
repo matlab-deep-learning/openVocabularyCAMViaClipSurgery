@@ -22,7 +22,7 @@ Requires MATLAB® release R2026a or newer with the following toolboxes/add-ons:
 - [Computer Vision Toolbox Model for OpenAI CLIP Network](https://www.mathworks.com/matlabcentral/fileexchange/182171-computer-vision-toolbox-model-for-openai-clip-network)
 
 ## Getting Started
-Run the `openVocabularyCAMviaCLIPSurgery.mlx` live script.
+Run the `openVocabularyCAMviaCLIPSurgery.m` live script.
 
 ## Licence
 The license is available in the *License.txt* file in this GitHub repository.
