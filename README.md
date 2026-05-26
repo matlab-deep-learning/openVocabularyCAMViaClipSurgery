@@ -2,8 +2,10 @@
 
 The example in this repository demonstrates how to perform open vocabulary 
 Class Activation Mapping (CAM), a neural network explainability technique. 
-This is achieved via CLIP Surgery, a training-free modification to OpenAI's
+This is achieved via CLIP Surgery \[[1](#references)], a training-free modification to OpenAI's
 CLIP model that enables several downstream open vocabulary tasks.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=​​https://github.com/matlab-deep-learning/openVocabularyCAMViaClipSurgery​&file=openVocabularyCAMviaCLIPSurgery.m)
 
 The following image illustrates the class activation map for the prompt 
 "car" before and after applying CLIP surgery.
@@ -22,13 +24,17 @@ Requires MATLAB® release R2026a or newer with the following toolboxes/add-ons:
 - [Computer Vision Toolbox Model for OpenAI CLIP Network](https://www.mathworks.com/matlabcentral/fileexchange/182171-computer-vision-toolbox-model-for-openai-clip-network)
 
 ## Getting Started
-Run the `openVocabularyCAMviaCLIPSurgery.m` live script.
+Run the [`openVocabularyCAMviaCLIPSurgery.m`](openVocabularyCAMviaCLIPSurgery.m) live script.
 
 ## Licence
-The license is available in the *License.txt* file in this GitHub repository.
+The license is available in the [License.txt](License.txt) file in this GitHub repository.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral/)
 
-Copyright 2026 The MathWorks, Inc.
+## References
+[1] Li, Yi, et al. "A closer look at the explainability of contrastive language-image pre-training."
+Pattern Recognition 162 (2025): 111409.
+
+Copyright © 2026 The MathWorks, Inc.
 
