@@ -5,7 +5,7 @@ Class Activation Mapping (CAM), a neural network explainability technique.
 This is achieved via CLIP Surgery \[[1](#references)], a training-free modification to OpenAI's
 CLIP model that enables several downstream open vocabulary tasks.
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=​​https://github.com/matlab-deep-learning/openVocabularyCAMViaClipSurgery​&file=openVocabularyCAMviaCLIPSurgery.m)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/openVocabularyCAMViaClipSurgery&file=openVocabularyCAMviaCLIPSurgery.m)
 
 The following image illustrates the class activation map for the prompt 
 "car" before and after applying CLIP surgery.
